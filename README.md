@@ -31,3 +31,4 @@ Create a .env file so that mySQL can be used to create and seed the starting dat
 # Questions:
 For further questions, please contact at [github.com/OC-Kai](https://github.com/OC-Kai) or <a href = "mailto:ArthurJStone96@gmail.com">ArthurJStone96@gmail.com</a>.
 
+Video Demonstration Link: https://drive.google.com/file/d/1sZ-CE847XAWEUa6NhMqaksjbj9FkbDml/view
